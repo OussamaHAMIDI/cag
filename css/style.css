@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 30px;
 }
 .gtco-nav ul li.btn-cta a:hover span {
-  background: #8bde2f;
+  background: #488897;
   color: #fff;
 }
 .gtco-nav ul li.active > a {
@@ -1125,8 +1125,8 @@ form label {
   border: 2px solid #488897 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #8bde2f !important;
-  border-color: #8bde2f !important;
+  background: #75898e !important;
+  border-color: #488897 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
