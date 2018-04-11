@@ -757,6 +757,10 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 23px;
   content: "\e9af";
 }
+.gtco-contact-info ul li.fax:before {
+  font-size: 23px;
+  content: "\1F5B7";
+}
 
 form label {
   font-weight: normal !important;
